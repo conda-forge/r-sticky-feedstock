@@ -1,11 +1,11 @@
-About r-sticky
-==============
+About r-sticky-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sticky-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/decisionpatterns/sticky http://decisionpatterns.com
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sticky-feedstock/blob/main/LICENSE.txt)
 
 Summary: In base R, object attributes are lost when objects are modified by common data operations such as subset, filter, slice, append, extract etc. This packages allows objects to be marked as 'sticky' and have attributes persisted during these operations or when inserted into or extracted from list-like or table-like objects.
 
